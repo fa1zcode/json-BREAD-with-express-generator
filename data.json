@@ -1,0 +1,44 @@
+[
+   {
+      "string": "Testing Data",
+      "integer": "12",
+      "float": "1.45",
+      "date": "2017-12-12",
+      "boolean": true
+   },
+   {
+      "string": "Coba Lagi",
+      "integer": "99",
+      "float": "100.405",
+      "date": "12017-02-01",
+      "boolean": true
+   },
+   {
+      "string": "Data Lagi",
+      "integer": "44",
+      "float": "44.888",
+      "date": "2022-02-09",
+      "boolean": false
+   },
+   {
+      "string": "Super Baget",
+      "integer": "0",
+      "float": "1.45",
+      "date": "",
+      "boolean": true
+   },
+   {
+      "string": "ww",
+      "integer": "22",
+      "float": "112.332",
+      "date": "2022-02-07",
+      "boolean": true
+   },
+   {
+      "string": "xx",
+      "integer": "22",
+      "float": "111.888",
+      "date": "",
+      "boolean": "true"
+   }
+]
